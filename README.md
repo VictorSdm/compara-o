@@ -33,4 +33,11 @@ leia(numero3)
  leia(maior);
  escreva("o valor maior é:");
  escreva(maior);
- senão(numero3<maior);
+ se(numero3<maior)entao;
+ leia(menor)
+ escreva("o valor menor é:");
+ escreva(menor);
+ escreva("para sair do programa digite Exit")
+ Exit..
+ FIm
+ 
