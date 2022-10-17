@@ -13,10 +13,10 @@ menor;
 
  inicio
 
-escreva:("digite um valor");
-leia:(numero1);
-escreva:("digite outro valor para comparação");
-leia:(numero2);
+escreva("digite um valor");
+leia(numero1);
+escreva("digite outro valor para comparação");
+leia(numero2);
   se(numero1<numero2)entao;
     escreva(numero1<numero2);
     leia(menor);
